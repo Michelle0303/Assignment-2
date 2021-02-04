@@ -3,7 +3,7 @@
 
 FusionCharts.ready(function() {
     var visitChart = new FusionCharts({
-      type: 'line',
+      type: 'column3d',
       renderAt: 'chart-container',
       width: '1350',
       height: '700',
